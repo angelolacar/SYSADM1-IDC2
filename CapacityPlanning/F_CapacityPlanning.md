@@ -1,18 +1,5 @@
-+----------------------------------+------------------------+----------+
-| ![](vertopal_                    |                        |          |
-| b550e5d73be94619af568c18b8ca14ad |                        |          |
-| /media/image1.png){width="2.4in" |                        |          |
-| height="0.5881944444444445in"}   |                        |          |
-|                                  |                        |          |
-| SCHOOL OF INFORMATION AND        |                        |          |
-| TECHNOLOGY                       |                        |          |
-+----------------------------------+------------------------+----------+
-| **NAME:** Gerardo, Charles       | **DATE PERFORMED:**    | /50      |
-| Hanzel\                          |                        |          |
-| Lacar, Heart Angelo              |                        |          |
-+----------------------------------+------------------------+----------+
-| **Section:** IDC2                | **DATE SUBMITTED:**    |          |
-+----------------------------------+------------------------+----------+
+![image](https://github.com/user-attachments/assets/0c176306-26ca-4f52-90c4-8e9c2657d0df)
+
 
 # SYSADM1 -- Capacity Management & Planning
 
@@ -26,11 +13,11 @@ network\'s scalability and performance to ensure a seamless user
 experience during the peak traffic period. Consider factors such as
 increased user demand, new applications, and security threats.
 
-![](vertopal_b550e5d73be94619af568c18b8ca14ad/media/image2.png){width="5.052917760279965in"
-height="3.8255161854768156in"}
+![image](https://github.com/user-attachments/assets/7d7ea00e-8c4c-4319-a9a4-db234230bda3)
 
-![](vertopal_b550e5d73be94619af568c18b8ca14ad/media/image3.png){width="6.261290463692038in"
-height="4.125575240594926in"}
+
+![image](https://github.com/user-attachments/assets/8bea4d12-39f3-4633-886b-b0bfc59bbd67)
+
 
 **Network Analysis**
 
@@ -55,30 +42,8 @@ switches with modular capacity, enabling expansion as demand increases.
 This approach supports higher-capacity uplinks to reduce congestion and
 handle future traffic.
 
-+----------------------+-----------------------+-----------------------+
-| **Proposed           | **Drawbacks**         | **Benefits**          |
-| solution**           |                       |                       |
-+======================+=======================+=======================+
-| **Hardware           |   ------------------  | Supports future       |
-| Upgrades**           |                       | growth and higher     |
-|                      |   ------------------  | capacity.             |
-|                      |                       |                       |
-|                      |   ------------------  |                       |
-|                      |   High initial cost   |                       |
-|                      |   and downtime for    |                       |
-|                      |   installation.       |                       |
-|                      |   ------------------  |                       |
-|                      |                       |                       |
-|                      |   ------------------  |                       |
-+----------------------+-----------------------+-----------------------+
-| **Software           | Complexity in         | Increases network     |
-| Enhancements**       | configuration.        | efficiency and        |
-|                      |                       | security.             |
-+----------------------+-----------------------+-----------------------+
-| **Improved           | Risk of               | Reduces broadcast     |
-| Segmentation**       | misconfiguration.     | domains, improves     |
-|                      |                       | control.              |
-+----------------------+-----------------------+-----------------------+
+![image](https://github.com/user-attachments/assets/edb5f980-e621-4003-92d1-9d2ff15ff94f)
+
 
   ----------------- ------------------ ------------------- ---------------------
   Criteria          Excellent \| 10pts Good \| 7pts        Needs Improvement \|
