@@ -148,6 +148,4 @@ perspectives did you gain from this course?
 How do you plan to apply what you have learned in this course to your
 future studies, career, or personal life?
 
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
+  -This subject helped give me more specialty other than Coding and Networking, installing windows and server could help me find other jobs despite it not being related to I.T-
