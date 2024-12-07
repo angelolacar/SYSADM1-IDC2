@@ -136,9 +136,7 @@ Did the course encourage critical thinking and analysis? How did it
 promote higher-order thinking skills, such as problem-solving or
 decision-making?
 
-  -----------------------------------------------------------------------
-
-  -----------------------------------------------------------------------
+-Yes, this course helped me utilize and be independent when fixing problems. Going beyond what is being thought in schools and outsourcing.-
 
 Reflecting on your personal growth, what new knowledge, skills, or
 perspectives did you gain from this course?
